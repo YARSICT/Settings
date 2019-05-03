@@ -34,8 +34,8 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <LinearLayout
-        android:layout_width="380dp"
-        android:layout_height="649dp"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
         android:layout_marginStart="10dp"
         android:layout_marginTop="100dp"
         android:layout_marginEnd="10dp"
@@ -67,9 +67,8 @@
 
                     <Button
                         android:id="@+id/button3"
-                        android:layout_width="50dp"
+                        android:layout_width="60dp"
                         android:layout_height="60dp"
-                        android:layout_weight="1"
                         android:background="@drawable/wifi" />
 
                     <LinearLayout
@@ -112,9 +111,8 @@
                     android:orientation="horizontal">
 
                     <Button
-                        android:layout_width="40dp"
+                        android:layout_width="60dp"
                         android:layout_height="60dp"
-                        android:layout_weight="1"
                         android:background="@drawable/connected_device" />
 
                     <LinearLayout
@@ -155,9 +153,8 @@
                     android:orientation="horizontal">
 
                     <Button
-                        android:layout_width="38dp"
+                        android:layout_width="60dp"
                         android:layout_height="60dp"
-                        android:layout_weight="1"
                         android:background="@drawable/app" />
 
                     <LinearLayout
@@ -198,9 +195,8 @@
                     android:orientation="horizontal">
 
                     <Button
-                        android:layout_width="28dp"
+                        android:layout_width="60dp"
                         android:layout_height="60dp"
-                        android:layout_weight="1"
                         android:background="@drawable/battery" />
 
                     <LinearLayout
@@ -241,9 +237,8 @@
                     android:orientation="horizontal">
 
                     <Button
-                        android:layout_width="40dp"
+                        android:layout_width="60dp"
                         android:layout_height="60dp"
-                        android:layout_weight="1"
                         android:background="@drawable/display" />
 
                     <LinearLayout
@@ -284,9 +279,8 @@
                     android:orientation="horizontal">
 
                     <Button
-                        android:layout_width="38dp"
+                        android:layout_width="60dp"
                         android:layout_height="60dp"
-                        android:layout_weight="1"
                         android:background="@drawable/app" />
 
                     <LinearLayout
@@ -327,9 +321,8 @@
                     android:orientation="horizontal">
 
                     <Button
-                        android:layout_width="27dp"
+                        android:layout_width="60dp"
                         android:layout_height="60dp"
-                        android:layout_weight="1"
                         android:background="@drawable/app" />
 
                     <LinearLayout
@@ -370,9 +363,8 @@
                     android:orientation="horizontal">
 
                     <Button
-                        android:layout_width="34dp"
+                        android:layout_width="60dp"
                         android:layout_height="60dp"
-                        android:layout_weight="1"
                         android:background="@drawable/app" />
 
                     <LinearLayout
@@ -414,9 +406,8 @@
                     android:orientation="horizontal">
 
                     <Button
-                        android:layout_width="34dp"
+                        android:layout_width="60dp"
                         android:layout_height="60dp"
-                        android:layout_weight="1"
                         android:background="@drawable/app" />
 
                     <LinearLayout
@@ -441,7 +432,7 @@
                             android:layout_weight="1"
                             android:gravity="center|left"
                             android:paddingLeft="10dp"
-                            android:text="@string/about_sum"
+                            android:text="@string/safe_sum"
                             android:textColor="#404040" />
                     </LinearLayout>
                 </LinearLayout>
