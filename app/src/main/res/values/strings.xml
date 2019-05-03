@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">设置</string>
+    <string name="main_title">设置</string>
+    <string name="wifi">网络和互联网</string>
+    <string name="wifi_sum">WLAN、移动网络、流量使用、热点</string>
+    <string name="connected_device">已关联的设备</string>
+    <string name="connected_device_sum">蓝牙、投射、NFC</string>
+    <string name="app">应用和通知</string>
+    <string name="app_sum">权限、默认应用</string>
+    <string name="battery">电池</string>
+    <string name="display">显示</string>
+    <string name="display_sum">壁纸、休眠、字体大小</string>
+    <string name="sound">声音</string>
+    <string name="sound_sum">音量、震动、勿扰</string>
+    <string name="storage">储存</string>
+    <string name="safe">安全性和位置信息</string>
+    <string name="safe_sum">屏幕锁定</string>
 </resources>
